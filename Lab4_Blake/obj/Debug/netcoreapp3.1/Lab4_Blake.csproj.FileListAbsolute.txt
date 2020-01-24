@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\bin\Debug\netcoreapp3.1\Lab4_Blake.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\bin\Debug\netcoreapp3.1\Lab4_Blake.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\bin\Debug\netcoreapp3.1\Lab4_Blake.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\bin\Debug\netcoreapp3.1\Lab4_Blake.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\bin\Debug\netcoreapp3.1\Lab4_Blake.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\bin\Debug\netcoreapp3.1\Lab4_Blake.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\obj\Debug\netcoreapp3.1\Lab4_Blake.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\obj\Debug\netcoreapp3.1\Lab4_Blake.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\obj\Debug\netcoreapp3.1\Lab4_Blake.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\obj\Debug\netcoreapp3.1\Lab4_Blake.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Lab4_Blake\Lab4_Blake\obj\Debug\netcoreapp3.1\Lab4_Blake.pdb
